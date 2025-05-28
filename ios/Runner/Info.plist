@@ -49,5 +49,9 @@
 		<false/>
 		<key>UIViewControllerBasedStatusBarAppearance</key>
 		<false/>
+		<key>NSLocationWhenInUseUsageDescription</key>
+        <string>This app needs access to your location while using the app.</string>
+        <key>NSLocationAlwaysUsageDescription</key>
+        <string>This app needs access to your location at all times.</string>
 	</dict>
 </plist>
